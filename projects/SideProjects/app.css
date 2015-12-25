@@ -1,0 +1,64 @@
+body{
+	background-image: url("../SideProjects/bathTime.jpg");
+	background-repeat: repeat;
+}
+
+
+#content{
+	text-align: right;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+	
+
+nav {
+	text-align: left;
+	max-width: auto;
+	background-color: #75387a;
+	margin: 0;
+	padding: 10px;
+	text-decoration: none;
+	font-family:georgia, sans-serif;
+	font-size: large;
+	letter-spacing: 3px;
+	
+}
+
+/*.tagLine {
+	width:390px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 300px;
+	padding-top: 100px;
+	float: relative;
+*/}
+
+
+h1 {
+	color: white;
+}
+
+p {
+	width: 18em;
+	text-align: justify;
+}
+p:after{
+	content: '';
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+}
+
+
+footer {
+	max-width: auto;
+	background-color: #75387a;
+	margin: 0;
+	padding: 10px;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+	font-size: medium;
+	letter-spacing: 1px;
+	text-align: center;
+	
+}
